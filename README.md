@@ -1,8 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF&center=true&vCenter=true&multiline=true&width=500&lines=Hi+there%2C+I'm+Om+Singh+%F0%9F%91%8B;I'm+a+Full-Stack+Developer+%26+Python+Enthusiast;I+love+turning+ideas+into+reality+with+code." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3399FF&center=true&vCenter=true&multiline=false&width=500&lines=Hi+there%2C+I'm+Om+Shankar+Singh+%F0%9F%91%8B;I'm+a+Full-Stack+Developer+%26+Python+Enthusiast;I+love+turning+ideas+into+reality+with+code." alt="Typing SVG" />
   </a>
 </h1>
+
+<br>
 
 <p align="center">
   I'm a final-year Computer Engineering student from Pune, India, passionate about building scalable web applications and solving real-world problems with code.
@@ -38,13 +40,14 @@
 
 ---
 
-## 📊 My GitHub Stats & Trophies
+## 📊 My GitHub Activity & Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=omsingh9860&theme=dracula&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=omsingh9860&theme=dracula" alt="omsingh9860's activity graph"/>
   </a>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omsingh9860&show_icons=true&theme=dracula&rank_icon=github" alt="omsingh9860's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsingh9860&layout=compact&theme=dracula" alt="omsingh9860's top languages" />
@@ -52,11 +55,10 @@
 
 ---
 
-## 🐍 Here's a snake eating my contributions...
+## 🐍 My Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/omsingh9860/omsingh9860/output/github-contribution-grid-snake.svg" alt="contribution snake">
 </p>
-
 
 ## 🔗 Connect with Me
 
